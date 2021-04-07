@@ -1,5 +1,5 @@
-Process Parallel Web Request
-----------------------------
+Process Parallel LWP Requests
+-----------------------------
 
 A friend of mine at work recently asked my opinion about the distributio
 LWP::Parallel. To be honest, I didn't  know about it before, so I took a
