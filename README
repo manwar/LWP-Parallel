@@ -1,0 +1,9 @@
+Process Parallel Web Request
+----------------------------
+
+A friend of mine at work recently asked my opinion about the distributio
+LWP::Parallel. To be honest, I didn't  know about it before, so I took a
+closer look and found it amazingly simple to use.
+
+I came up with a trivial script to demonstrate the bare minimum feature.
+Please follow the official documentation for more informations.
